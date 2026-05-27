@@ -2,9 +2,5 @@
 
 2code is a collection of **quality of life tools** designed to assist development processes.
 
-## Features ✨
+<img width="1707" height="2159" alt="image" src="https://github.com/user-attachments/assets/9353ab77-6376-4022-818f-67fa002e7210" />
 
-- **Directory Tree Visualization**: Display a clean, structured directory tree, ignoring unwanted folders and focusing on files that matter.
-- **Source File Content Logger**: Quickly log the contents of specific source files (e.g., `.cpp`, `.h`), skipping irrelevant files and directories.
-- **Customizable File Filters**: Specify which folders, filenames, and extensions to include or ignore, making navigation and content logging highly flexible.
-- **Interactive Console Menu**: Intuitive console menu for quick access to each feature, including a graceful shutdown.
